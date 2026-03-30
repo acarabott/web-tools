@@ -64,6 +64,10 @@ I use Prettier because it's a standard. I don't love all of the formatting decis
 
 Mostly because it is easy to integrate when using Vite. There may be better testing tools.
 
+## Decluttering: [Knip](https://knip.dev)
+
+Knip helps find dead TypeScript code.
+
 ## Editor: [Visual Studio Code](https://code.visualstudio.com)
 
 I don't _love_ VSCode, but I use it every day. It seems to have the best TypeScript integration, and it definitely has a lot of momentum and mindshare at the moment.
