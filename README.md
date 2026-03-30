@@ -30,6 +30,8 @@ There are other cool languages while compile to JavaScript, but I prefer to not 
 
 I use npm because it's the most common, not because of any particular features.
 
+### Want to try: [pnpm](https://pnpm.io)
+
 ## Build Tool: [Vite](https://vite.dev)
 
 > Config file: [vite.config.ts](/config-files/vite.config.ts)
