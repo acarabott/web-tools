@@ -64,6 +64,10 @@ I use Prettier because it's a standard. I don't love all of the formatting decis
 
 Mostly because it is easy to integrate when using Vite. There may be better testing tools.
 
+## Benchmarking: [mitata](https://github.com/evanwashere/mitata/)
+
+mitata takes benchmarking seriously. Works for the browser, Node, and C++. Read the documentation on writing good benchmarks.
+
 ## Decluttering: [Knip](https://knip.dev)
 
 Knip helps find dead TypeScript code.
